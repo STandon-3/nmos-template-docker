@@ -8,4 +8,4 @@ set -o errexit
 . .scripts/get-config.sh
 
 # All specs need Jekyll
-bundle install
+#bundle install
