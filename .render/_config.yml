@@ -3,6 +3,7 @@ remote_theme: pages-themes/primer
 plugins:
 - jekyll-remote-theme
 spec_server: specs.amwa.tv
+host: 0.0.0.0
 
 # AMWA ID
 amwa_id: IS-TEMPLATE
